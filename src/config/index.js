@@ -41,7 +41,7 @@ export default {
   /**
    * @description 是否显示logo
    */
-  sidebarLogo: true,
+  sidebarLogo: false,
 
   /**
    * 是否显示设置的悬浮按钮
